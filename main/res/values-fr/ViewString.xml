@@ -1,0 +1,27 @@
+<resources>
+    <string name="up">dessus</string>
+    <string name="Down">bas</string>
+    <string name="mCameraAngle">appareil pnoto angle</string>
+    <string name="mPtAngle">dimension angle</string>
+    <string name="mPtSize_x">dimension taille x</string>
+    <string name="mPtSize_y">dimension taille y</string>
+    <string name="mPtOffsetPoint_x">dimension décaler x</string>
+    <string name="mPtOffsetPoint_y">dimension décaler y</string>
+    <string name="mPtAn_x">dimension inclinaison x</string>
+    <string name="mPtAn_y">dimension inclinaison y</string>
+    <string name="mAlertLevel">Alerte nombre</string>
+    <string name="mRangeOverTime">beaucoup nombre</string>
+    <string name="mWalkLevel">marcher nombre</string>
+    <string name="mAlertAreaCount">Alerte dimension nombre</string>
+    <string name="mSafetyLevel">sûr nombre</string>
+    <string name="mErrerLevel">danger nombre</string>
+    <string name="mPixelLevel">nombreux nombre</string>
+    <string name="mCheckOff">CheckOff</string>
+    <string name="mGaussianBlur">GaussianBlur</string>
+    <string name="mAlertCount">Alerte nombre</string>
+    <string name="mBackGroundView">BackGroundView</string>
+    <string name="mWalkWait">marcher ennui</string>
+    <string name="mVibration">vibration</string>
+    <string name="PrivacyPolicyTitle">Politique de confidentialité</string>
+    <string name="UserPolicyTitle">Politique dutilisation</string>
+</resources>

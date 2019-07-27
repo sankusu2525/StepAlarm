@@ -1,0 +1,27 @@
+<resources>
+    <string name="up">auf</string>
+    <string name="Down">abnehmen</string>
+    <string name="mCameraAngle">Kamera winkel</string>
+    <string name="mPtAngle">Bereich winkel</string>
+    <string name="mPtSize_x">Bereich Größe_x</string>
+    <string name="mPtSize_y">Bereich Größe_y</string>
+    <string name="mPtOffsetPoint_x">Bereich rücken_x</string>
+    <string name="mPtOffsetPoint_y">Bereich rücken_y</string>
+    <string name="mPtAn_x">Bereich Neigung_x</string>
+    <string name="mPtAn_y">Bereich Neigung_y</string>
+    <string name="mAlertLevel">Warnen Wert</string>
+    <string name="mRangeOverTime">Schwell Wert</string>
+    <string name="mWalkLevel">Gehen Wert</string>
+    <string name="mAlertAreaCount">Warnen Bereich zählen</string>
+    <string name="mSafetyLevel">Sicher Wert</string>
+    <string name="mErrerLevel">gefährlich Wert</string>
+    <string name="mPixelLevel">Pixel Wert</string>
+    <string name="mCheckOff">Abhaken</string>
+    <string name="mGaussianBlur">Gaussian Wert</string>
+    <string name="mAlertCount">warnen Wert</string>
+    <string name="mBackGroundView">BackGroundView</string>
+    <string name="mWalkWait">gehen warten</string>
+    <string name="mVibration">Schwingung</string>
+    <string name="PrivacyPolicyTitle">Datenschutz-Bestimmungen</string>
+    <string name="UserPolicyTitle">Benutzerrichtlinie</string>
+</resources>

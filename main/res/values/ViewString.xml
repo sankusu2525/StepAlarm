@@ -1,0 +1,269 @@
+<resources>
+    <string name="up">up</string>
+    <string name="Down">Down</string>
+    <string name="mCameraAngle">CameraAngle</string>
+    <string name="mPtAngle">AreaAngle</string>
+    <string name="mPtSize_x">AreaSize_x</string>
+    <string name="mPtSize_y">AreaSize_y</string>
+    <string name="mPtOffsetPoint_x">AreaOffset_x</string>
+    <string name="mPtOffsetPoint_y">AreaOffset_y</string>
+    <string name="mPtAn_x">AreaSlope_x</string>
+    <string name="mPtAn_y">AreaSlope_y</string>
+    <string name="mAlertLevel">AlertLevel</string>
+    <string name="mRangeOverTime">RangeOverTime</string>
+    <string name="mWalkLevel">WalkLevel</string>
+    <string name="mAlertAreaCount">AlertAreaCount</string>
+    <string name="mSafetyLevel">SafetyLevel</string>
+    <string name="mErrerLevel">ErrerLevel</string>
+    <string name="mPixelLevel">PixelLevel</string>
+    <string name="mCheckOff">CheckOff</string>
+    <string name="mGaussianBlur">GaussianBlur</string>
+    <string name="mAlertCount">AlertCount</string>
+    <string name="mBackGroundView">BackGroundView</string>
+    <string name="mWalkWait">WalkWait</string>
+    <string name="mVibration">Vibration</string>
+    <string name="PrivacyPolicyTitle">PrivacyPolicy</string>
+    <string name="PrivacyPolicy" formatted="false" translatable="false">
+StepAlarm Prototypeのプライバシーポリシー\n
+\n
+第１条\n
+  （定義）\n
+このアプリケーション・プライバシーポリシー（以下、本プライバシーポリシーといいます）は、
+sankusu2525が提供する「StepAlarm Prototype」（以下、本アプリケーションといいます）および
+本アプリケーションに関するサービス（以下、本サービスといいます）における利用者情報の取扱いを定めたものです。
+なお、sankusu2525の連絡先は、第10条をご覧下さい。\n
+\n
+第２－１条\n
+  （取得される情報の項目、利用目的、取得方法）\n
+本アプリケーションおよび本サービスのご利用に際して、以下の利用者情報を以下の
+利用目的のためにアプリケーション経由で自動的に取得いたします。\n
+\n
+●マイクやカメラのセンサーデータは、アラート作成ために使用します。\n
+\n
+第３条\n
+  （同意）\n
+１．本アプリケーションおよび本サービスは、本プライバシーポリシーをご確認いただき、
+内容をご理解したうえでご利用ください。本プライバシーポリシーは第７条の場所に掲示されており、
+この掲示をもって公表したものとします。
+ご利用者は本アプリケーションをインストールする際に、本プライバシーポリシーをご確認ください。\n
+２．情報の第三者提供を行う場合、アプリの画面もしくはメールにより事前に同意をいただきます。\n
+\n
+第４－１条（外部送信）\n
+　第２－１条に基づき取得された情報については、外部へ送信をする機能はありません。\n
+\n
+第４－２条（第三者提供）\n
+　第２－１条に基づき取得された情報のうち、については、お客様の同意を取得した上で第三者へ提供される場合があります。\n
+\n
+第４－３条\n
+  （情報収集モジュール）\n
+  ※情報収集モジュールが組み込まれている場合\n
+本サービスを無料で提供させていただくために、広告配信を目的として、アプリ提供者のアプ
+リケーション・プライバシーポリシーに適合することを確認した以下の広告配信事業者
+が、ご利用者の情報を自動取得します。\n
+\n
+１．広告会社無し\n
+取得する情報の項目：無し\n
+利用目的：無し\n
+プライバシーポリシー：無し\n
+\n
+第５条\n
+  （利用者関与の方法）\n
+本サービスでは、ご利用者のアンインストール操作により、ご利用者の情報の全部もしくは
+一部の取得停止、変更、削除、利用の停止をすることができます。\n
+\n
+第６条\n
+  （サービスの終了と情報の取扱い）\n
+本アプリケーションおよび本サービスは、ご利用者が本アプリケーションの
+削除（アンインストール）した場合には、ご利用を終了されたものとします。\n
+\n
+第７条\n
+  （個人情報保護方針（プライバシーポリシー）等へのリンク）\n
+本アプリの個人情報保護方針（プライバシーポリシー）および本プライバシーポリシーの最
+新のものは、下記のリンクよりご確認ください。本個人情報保護方針（プライバシーポリ
+シー）と本プライバシーポリシーが異なる場合には、本プライバシーポリシーが優先する
+ものとします。\n
+■\n
+当アプリの個人情報保護方針（プライバシーポリシー）\n
+本アプリケーションの設定\n
+→設定→プライバシーポリシー\n
+アプリ提供者プライバシーポリシー\n
+プライバシーポリシー：https://sankusu2525.jimdo.com/%E4%BA%8B%E4%BE%8B/stepalarm-prototype-privacy/\n
+\n
+第８条\n
+  （情報の開示、提供）\n
+アプリ提供者は、ご利用者の同意を得ることなく、本アプリケーションおよび本サービスにて
+ご利用者より取得、保存した情報を、本プライバシーポリシーに明示している第三者以
+外に開示または提供することはありません。ただし、以下の場合は除きます。\n
+１．法令に基づく場合。\n
+２．人の生命、身体または財産の保護のために必要がある場合であって、本人の同意を
+得ることが困難である場合。\n
+３．国の機関もしくは地方公共団体またはその委託を受けたものが、法令の定めにより
+遂行することに協力する必要がある場合であって、本人の同意を得ることによりその
+遂行に支障を及ぼすおそれがある場合。\n
+４．その他、社会通念上、アプリ提供者が必要と判断した場合であって、本人の同意を得ること
+が困難である場合。\n
+\n
+第９条\n
+  （取得された情報の公開、共有）\n
+利用者が本サービスを通じて友達や知人と通信による連絡および情報を共有する機能
+を利用した場合には、本アプリケーションにて取得したご利用者の位置情報（位置情報
+の機能有効にしている場合）、メッセージに含まれるテキスト、写真、動画、音声、
+URLのリンクが連絡や情報の共有をしている友達や知人に通知または共有される場合があり
+ます。
+また、これらの機能を全て公開する設定としていると、本サービスを利用している全
+ての利用者が閲覧することができます。公開範囲は、本アプリケーションの設定機能か
+ら変更することができます。\n
+\n
+第10条  （問い合わせ窓口）\n
+本アプリケーションおよび本サービスにおけるご利用者情報の取扱いに関するお問い
+合わせ、ご相談は以下の窓口でお受けいたします。\n
+■\n
+窓口名称\n
+：  sankusu2525\n
+  お客様係\n
+■\n
+お問い合わせ方法\n
+メール ：sankusu2525@gmail.com\n
+\n
+第11条  （変更）\n
+本プライバシーポリシーは改定されることがあります。\n
+１．本アプリケーションのバージョンアップに伴って、ご利用者情報の取得項目の変
+更や追加、利用目的の変更、第三者提供等について変更がある場合には、ダウンロ
+ード前に通知し、重要なものについてはインストール前もしくはインストール時に
+あらためて同意を取得させていただきます。\n
+２．その他、ご利用者情報の取得項目の変更や追加、利用目的の変更、第三者提供等
+について変更がある場合には、メッセージ機能およびご登録いただいた
+WEBを通じてお知らせすると同時に、重要なものについてはあらためて同意を取得させて
+いただきます。\n
+    </string>
+    <string name="UserPolicyTitle">UserPolicy</string>
+    <string name="UserPolicy" formatted="false" translatable="false">
+StepAlarm Prototypeの利用規約\n
+sankusu2525が提供する「StepAlarm Prototype」（以下、本アプリケーションといいます）の利用について以下のとおり本規約を定めます。\n
+\n
+第１条　本規約の範囲 \n
+本規約は本アプリケーションが提供するサービスについて規定したものです。 \n
+\n
+第２条　利用者の登録情報\n
+１．利用者登録情報は、アプリ提供者が所有するものとし、個人が特定できる情報（氏名・住所・電話番号・メールアドレス）については、本サービス提供に必要な範囲内での委託先への預託の他、利用者本人による開示の承諾があるものを除き、原則として、管理外への提供は行わないこととします。\n
+２．前項にかかわらず、以下の場合については、当該利用者の同意なく利用者登録情報の一部（氏名・住所）を開示することがあります。\n
+（１）アプリ提供者及び他の利用者もしくは第三者に不利益を及ぼすと判断した場合、警察または関連諸機関に開示する場合\n
+（２）警察、裁判所、検察庁、弁護士会、消費者センターまたはこれらに準じた権限を有する機関から、登録情報の開示を求められた場合、アプリ提供者がこれに応じることを判断した場合\n
+（３）その他アプリ提供者が開示を相当であると判断した場合\n
+３．アプリ提供者は、入会の際に利用者の申告する登録情報のすべての項目に関していかなる虚偽の申告も認めないものとします。\n
+４．利用者の登録情報に変更が生じた場合、利用者は速やかに所定の手続き行うものとします。\n
+\n
+第３条　利用者の禁止事項\n
+１．アプリ提供者は、利用者の以下に該当する、またはその恐れのある行為は禁止します。\n
+（１）公序良俗に反する行為\n
+（２）犯罪行為に結びつく行為\n
+（３）法令等に違反する行為\n
+（４）アプリ提供者及び他の利用者もしくは第三者の著作権その他の知的財産権を侵害する行為\n
+（５）アプリ提供者及び他の利用者もしくは第三者の財産、プライバシー等を侵害する行為\n
+（６）アプリ提供者及び他の利用者もしくは第三者に不利益を与える行為\n
+（７）アプリ提供者及び他の利用者もしくは第三者を誹謗、中傷する行為\n
+（８）アプリ提供者の本アプリケーション等の運営を妨害、或いはアプリ提供者の信頼を毀損するような行為\n
+（９）アプリ提供者の承認を得ないで行う当利用者の身分を利用した全ての営業行為\n
+（１０）選挙運動もしくはこれに類似される行為、または公職選挙法などの法令に違反する行為\n
+（１１）入会手続きを含めたアプリ提供者が行う全てのアンケートに対し、虚偽の回答を行う行為\n
+（１２）有害なコンピュータープログラム等を送信又は書き込む行為\n
+（１３）ＩＤ及びパスワードを不正に使用する行為\n
+（１４）その他アプリ提供者が当該利用者の行為として不適切であると認めた行為 \n
+\n
+第４条　規約の変更\n
+アプリ提供者は、利用者への事前通知、承諾なしに本規約を随時変更することができるものとします。変更の内容については、本サイト上に１ヶ月表示した時点で、全ての利用者が了承したものとみなします。但し、第三者に不利益を及ぼす恐れのある場合等不測の事態が予想される場合は、上記期間を待たずに規約変更が実施されたものとします。\n
+\n
+第５条　サービスの中断、停止\n
+１．アプリ提供者は、以下に該当する場合、利用者への事前通知、承諾なしに、アプリ提供者のサービス内容の一部または、全部を停止または中断する場合があります。\n
+（１）本アプリケーションの定期保守、更新ならびに緊急事態発生の場合\n
+（２）火災、停電、天災等の不可抗力その他不測の事態により、本アプリケーション運営継続が困難になった場合\n
+２．上記事態などに伴い、利用者に不利益、損害が生じた場合であっても、アプリ提供者は、その責任を免れるものとします。\n
+\n
+第６条　サービス内容の変更、中止\n
+１．アプリ提供者は、利用者への事前通知、承諾なしに本アプリケーションのサービス内容を変更、または中止する場合があります。\n
+２．前項に基づき、サービス内容を変更・中止した場合といえども、利用者に不利益、損害が生じた場合、アプリ提供者は、その責任を免れるものとします。\n
+\n
+第７条　サービスの停止\n
+アプリ提供者は、一定の予告期間をもって本アプリケーションのサービス停止を行う場合があります。\n
+\n
+第８条　個人情報の取扱い\n
+アプリ提供者の収集した個人情報は以下のように取扱います。お客様がアプリ提供者に個人情報をご提供下さる際には、以下の取扱いについてご同意くださいますようよろしくお願い申し上げます。\n
+１．この個人情報の使用目的は以下のとおりです。\n
+（１）利用者管理\n
+（２）商品及びサービスの販売\n
+（３）商品等の梱包・発送業務\n
+（４）保証及びアフターサービス（お客様からの問い合わせ等含む）の提供\n
+（５）情報分析（購入者層の分析など）\n
+（６）新製品および新サービスに関する情報のご案内ならびにお客様へのアンケートの実施\n
+２．上記の個人情報をアプリ提供者が第三者に開示、漏洩することはございません。ただし、以下の場合はこの限りではございませんので、あらかじめご了承ください。\n
+（１）法令に基づき裁判所その他の司法機関および行政機関からお客様に関する情報の開示を要求された場合\n
+（２）アプリ提供者、アプリ提供者関連会社、お客様または第三者の権利および財産を保護する必要がある場合\n
+（３）お客様と他のお客様もしくは第三者との紛争により、アプリ提供者またはアプリ提供者関連会社が迷惑もしくは損害を被ることを回避する場合　\n
+（４）お客様がアプリ提供者にお名前、住所等の情報を提供するか否かは、お客様ご自身に任意にご判断いただけます。ただし、お客様からお名前、住所等の情報をご提供いただけない場合には、アプリ提供者はお客様に本サービスをご提供できなく点を予めご了承下さい。\n
+（５）お客様は、アプリ提供者に対して、当該個人情報を入力された以後、氏名・住所・お電話番号等について個人情報を開示するよう求めることができます。また、開示の結果、当該個人情報に誤りがある場合は、お客様はアプリ提供者に対して当該個人情報の訂正または削除を要求することができます。開示、訂正または削除を要求される場合は、次項のお客様の個人情報に関する担当者又は相談窓口までご連絡ください。\n
+（６）ご提供いただく個人情報の管理者及びお問い合わせ先\n
+お問い合わせ窓口\n
+：  sankusu2525\n
+  お客様係\n
+メール ：sankusu2525@gmail.com\n
+\n
+第９条　免責\n
+１．アプリ提供者は、理由の如何を問わず本アプリケーションのサービス提供が遅延し、又は中断したことに起因して利用者又は第三者が被った被害について、一切の責任を負わないものとします。\n
+２．アプリ提供者は、本アプリケーションのサービスの利用を通じて得た情報等の正確性、特定の目的への適合性等について、一切の責任を負わないものとします。\n
+３．アプリ提供者は、本アプリケーションのサービスの利用を通じて得た情報等に起因して損害が生じた場合、一切の責任を負わないものとします。\n
+４．本アプリケーションを通じて提供される情報・サービスに関し、利用者と他の利用者あるいは第三者と紛争が生じた場合は、利用者は、自己の費用と責任においてこれを解決するものとし、アプリ提供者に損害を与えないものとします。\n
+５．アプリ提供者は、本アプリケーションを通じて行われた利用者と第三者との物品売買等の取引に関連する債務の履行、及びその他の取引に関して生じた紛争については一切の責任を負わないものとします。\n
+６．アプリ提供者は、第４条第２項および第３項に基づく利用者の登録情報開示に伴い、そこから発生する問題について一切の責任を負わないものとします。\n
+\n
+第１０条　合意管轄\n
+本アプリケーションに関して、アプリ提供者と利用者との間、訴訟の必要性が生じた場合は、神戸地方裁判所を専属的合意管轄裁判所とします。\n
+\n
+第１１条　準拠法\n
+本規約の成立、効力、履行および解釈に関しては日本法が適用されるものとします。\n
+\n
+以上\n
+    </string>
+    <string name="LicenseAgreementTitle"  translatable="false">LicenseAgreement</string>
+    <string name="LicenseAgreement" formatted="false" translatable="false">
+    By downloading, copying, installing or using the software you agree to this license.
+If you do not agree to this license, do not download, install,
+copy or use the software.
+
+                          License Agreement
+               For Open Source Computer Vision Library
+                       (3-clause BSD License)
+
+Copyright (C) 2000-2016, Intel Corporation, all rights reserved.
+Copyright (C) 2009-2011, Willow Garage Inc., all rights reserved.
+Copyright (C) 2009-2016, NVIDIA Corporation, all rights reserved.
+Copyright (C) 2010-2013, Advanced Micro Devices, Inc., all rights reserved.
+Copyright (C) 2015-2016, OpenCV Foundation, all rights reserved.
+Copyright (C) 2015-2016, Itseez Inc., all rights reserved.
+Third party copyrights are property of their respective owners.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice,
+    this list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+
+  * Neither the names of the copyright holders nor the names of the contributors
+    may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+
+This software is provided by the copyright holders and contributors "as is" and
+any express or implied warranties, including, but not limited to, the implied
+warranties of merchantability and fitness for a particular purpose are disclaimed.
+In no event shall copyright holders or contributors be liable for any direct,
+indirect, incidental, special, exemplary, or consequential damages
+(including, but not limited to, procurement of substitute goods or services;
+loss of use, data, or profits; or business interruption) however caused
+and on any theory of liability, whether in contract, strict liability,
+or tort (including negligence or otherwise) arising in any way out of
+the use of this software, even if advised of the possibility of such damage.
+        </string>
+</resources>
